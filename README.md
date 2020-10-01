@@ -44,6 +44,10 @@ AWSKRUG DeepRacer Group is hosting community-driven Deepracer leagues and suppor
 <img src="https://imgnew.megazone.com/2019/10/20191031-3.jpg" width="400px"></img>
 - https://www.megazone.com/191030_aws-strat-up-deepracer-league/
 
+### Samsung Open Source Conference 2019 
+<img src="https://raw.githubusercontent.com/awskrug/deepracer-group/master/leagues/2019-soscon-league.jpg" width="400px"></img>
+- https://www.sosconhistory.net/soscon2019/index.html
+
 ### AWS Cloud in Busan DeepRacer League 2019
 <img src="https://raw.githubusercontent.com/awskrug/deepracer-group/master/leagues/2019-mz-deepracer-2.jpg" width="400px"></img>
 - https://www.megazone.com/20190910_eventreview_aws_cloud_day_in_busan/
