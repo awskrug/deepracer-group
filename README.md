@@ -39,6 +39,7 @@ AWSKRUG DeepRacer Group is hosting community-driven Deepracer leagues and suppor
 <img src="https://awskrug.github.io/events/2020-communityday-online/event.png" width="400px"></img>
 - https://pages.awscloud.com/aws-community-day-online-2020.html
 - https://console.aws.amazon.com/deepracer/home?region=us-east-1#raceToken/q5Egdi3xT8SUnhDKqw-X1w
+- https://dracer.io/league/community-day-2020
 
 ### AWS Community Day 2020 Seoul
 <img src="https://imgnew.megazone.com/2020/01/E.jpg" width="400px"></img>
