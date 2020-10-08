@@ -6,10 +6,10 @@ AWSKRUG DeepRacer Group is hosting community-driven Deepracer leagues and suppor
 
 ## Meetups
 
-### 딥레이서 시뮬레이터 (2020년 10월 7일)
-- 딥레이서 시뮬레이터 / 유정열 (당근마켓)
+### 딥레이서 기록 향상 시키기 (2020년 10월 7일)
+- 딥레이서 기록 향상 시키기 / 유정열 (당근마켓)
 - Link: https://www.meetup.com/awskrug/events/273473112/
-- Video: TBD
+- Video: https://www.youtube.com/watch?v=lCxqupveSGQ
 
 ### 딥레이서 실전 보상 함수 (2020년 9월 23일)
 - 딥레이서 실전 보상 함수 / 유정열 (당근마켓)
