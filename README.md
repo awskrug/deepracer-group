@@ -59,6 +59,7 @@ AWSKRUG DeepRacer Group is hosting community-driven Deepracer leagues and suppor
 ### AWS Cloud in Busan DeepRacer League 2019
 <img src="https://raw.githubusercontent.com/awskrug/deepracer-group/master/leagues/2019-mz-deepracer-2.jpg" width="400px"></img>
 - https://www.megazone.com/20190910_eventreview_aws_cloud_day_in_busan/
+- https://dracer.io/league/busan-1909
 
 ### AWSKRUG DeepRacer Group League 2019
 <img src="https://sukjae.github.io/media/deepracer-awskrug-3.jpg" width="400px"></img>
