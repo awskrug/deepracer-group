@@ -22,20 +22,24 @@ AWSKRUG DeepRacer Group is hosting community-driven Deepracer leagues and suppor
 - Video: https://www.youtube.com/watch?v=LXepqppNmBM
 
 ### DeepRacer 2019 트랙에서 훈련하기 (2020년 1월 20일)
-<img src="https://secure.meetupstatic.com/photos/event/b/0/d/1/600_488385265.jpeg" width="400px"></img>
+<img src="./images/20200120.jpg" width="400px"></img>
 - DeepRacer 2019 트랙에서 훈련하기 / 유정열 (메가존클라우드)
 - Link: https://www.meetup.com/awskrug/events/267684200/
 
 ### DeepRacer Getting Strated (2019년 3월 29일)
-<img src="https://sukjae.github.io/media/deepracer-awskrug-2.jpg" width="400px"></img>
+<img src="./images/20190329.jpg" width="400px"></img>
 - 코드 한줄도 안고치고 딥레이서 레이싱 3위 했던 이야기 / 정창훈 (당근마켓 CTO)
 - SageMaker 와 RoboMaker 로 딥레이서 훈련시키기 / 유정열 (베스핀글로벌)
 - Link: https://www.meetup.com/awskrug/events/259976734/
 
 ## Community Leagues
 
+### AWS Community Day 2021 Online
+
+- https://dracer.io/league/community-day-2021
+
 ### AWS Community Day 2020 Online
-<img src="https://raw.githubusercontent.com/awskrug/deepracer-group/master/leagues/2020-awskrug-community-league.png" width="400px"></img>
+<img src="./leagues/2020-awskrug-community-league.png" width="400px"></img>
 <img src="https://awskrug.github.io/events/2020-communityday-online/event.png" width="400px"></img>
 - https://pages.awscloud.com/aws-community-day-online-2020.html
 - https://console.aws.amazon.com/deepracer/home?region=us-east-1#raceToken/q5Egdi3xT8SUnhDKqw-X1w
@@ -52,12 +56,12 @@ AWSKRUG DeepRacer Group is hosting community-driven Deepracer leagues and suppor
 - https://dracer.io/league/startup-2019
 
 ### Samsung Open Source Conference 2019
-<img src="https://raw.githubusercontent.com/awskrug/deepracer-group/master/leagues/2019-soscon-league.jpg" width="400px"></img>
+<img src="./leagues/2019-soscon-league.jpg" width="400px"></img>
 - https://www.sosconhistory.net/soscon2019/index.html
 - https://dracer.io/league/soscon-2019
 
 ### AWS Cloud in Busan DeepRacer League 2019
-<img src="https://raw.githubusercontent.com/awskrug/deepracer-group/master/leagues/2019-mz-deepracer-2.jpg" width="400px"></img>
+<img src="./leagues/2019-mz-deepracer-2.jpg" width="400px"></img>
 - https://www.megazone.com/20190910_eventreview_aws_cloud_day_in_busan/
 - https://dracer.io/league/busan-1909
 
@@ -67,5 +71,5 @@ AWSKRUG DeepRacer Group is hosting community-driven Deepracer leagues and suppor
 
 ### Megazone DeepRacer Challenge 2019
 [![Video Label](http://img.youtube.com/vi/hXeT1EOOR1I/0.jpg)](https://youtu.be/hXeT1EOOR1I)
-<img src="https://raw.githubusercontent.com/awskrug/deepracer-group/master/leagues/2019-mz-deepracer-1.jpg" width="400px"></img>
+<img src="./leagues/2019-mz-deepracer-1.jpg" width="400px"></img>
 - https://www.megazone.com/20190705_blog_deepracer/
