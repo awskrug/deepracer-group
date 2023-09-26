@@ -1,0 +1,10 @@
+boto3
+gym
+matplotlib
+numpy
+pandas
+scipy
+seaborn
+shapely<2.0.0
+sklearn
+stats
