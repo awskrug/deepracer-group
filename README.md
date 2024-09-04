@@ -2,7 +2,7 @@
 
 AWSKRUG DeepRacer Group is hosting community-driven Deepracer leagues and support offline deepracer leagues in Korea. Also, we research Deepracer devices and reward functions for new formats of AWS DeepRacer.
 
-![Alt text](./logos/awskrug-deepracer-2024.png "DeepRacer Banner")
+![Alt text](./logos/awskrug-deepracer-2024.png "AWSKRUG DeepRacer Group")
 
 ## Meetups
 
